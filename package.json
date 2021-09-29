@@ -1,0 +1,6 @@
+{
+    "name": "com.raybenefield.readonly",
+    "version": "0.1.0",
+    "displayName": "Read-Only Attribute",
+    "description": "Disable the editing of a property from the inspector, while keeping it visible."
+}
